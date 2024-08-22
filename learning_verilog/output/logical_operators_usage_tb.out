@@ -1,0 +1,6 @@
+:( I expected my_val1=0 but my_val1=111
+GREAT! my_val2=0000
+GREAT! my_val1=111 my_val2=0000
+WHILE_LOOOP my_val2= 0
+WHILE_LOOOP my_val2= 1
+WHILE_LOOOP my_val2= 2
